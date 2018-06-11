@@ -19,7 +19,7 @@ tags:
   - 在ServletContext对象创建的时候，使用个监听器，加载spring配置文件，把配置文件配置对象创建。
   - 把创建出来的对象放到ServletContext域对象里面。（setAttribute方法）
 
-
+<!--more-->
 ##spring中使用注解方式进行bean管理
 1.注解概念
 注解：代码中特殊的标记，使用注解可以完成特殊的功能。
